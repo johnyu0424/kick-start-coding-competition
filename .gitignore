@@ -1,0 +1,5 @@
+*.bin
+*.in
+*.out
+.mypy_cache
+.DS_Store
